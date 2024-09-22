@@ -37,3 +37,5 @@ b. Use pandas [`pandas.read_spss`](https://pandas.pydata.org/docs/reference/api/
 * SAV: CY08MSP_FLT_TIM.SAV
 
 c. Download the [PISA 2022 Codebook XLSX file](https://webfs.oecd.org/pisa2022/CY08MSP_CODEBOOK_27thJune24.xlsx) to map codes into values
+
+d. Look at the [PISA 2022 Technical Report](https://www.oecd.org/en/publications/pisa-2022-technical-report_01820d6d-en.html) to understand the rationale behind what each question measures.
