@@ -1,3 +1,7 @@
-raw_data/
-
+*.sav
+*.zip
+*.ckpt
+*.zip
+*.csv
 .venv/
+raw_data/
